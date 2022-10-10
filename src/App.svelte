@@ -1,5 +1,5 @@
-<script lang="ts">
-    import Component from "./Components/Component.svelte";
+<script>
+    import Component from "@src/Components/Component.svelte";
 </script>
 
 <Component/>

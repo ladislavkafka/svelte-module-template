@@ -1,5 +1,4 @@
 /**
-
  */
-import Component from './Components/Component.svelte'
+import Component from '@src/Components/Component.svelte'
 export { Component }

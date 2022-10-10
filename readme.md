@@ -1,7 +1,12 @@
 # Template for new Svelte Modules
 
 ```
+# new module directory
 npx degit https://github.com/ladislavkafka/svelte-module-template modulename
+or
+# current directory
+npx degit https://github.com/ladislavkafka/svelte-module-template . --force
+
 cd modulename
 npm install
 npm run dev
