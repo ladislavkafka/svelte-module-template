@@ -40,6 +40,13 @@ npm run dev
    export { Component }
    ```
 
+3. Publish the module to github
+   or import locally
+```
+npm install C:\localmodules\svelte-module-template
+npm install /home/superhero/svelte-localmodules/svelte-module-template
+```
+
 ## GIT
 ```
 git commit -a -m updated
