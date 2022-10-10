@@ -4,6 +4,7 @@ todo.md
 .DS_Store
 node_modules
 yarn.lock
+package-lock.json
 logs
 *.log
 npm-debug.log*
